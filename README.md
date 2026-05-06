@@ -40,7 +40,7 @@ Each appointment has one visit
 
 ## ER Diagram
 
-!\[Hospital ER Diagram](images/Hospital\_er\_diagram.png)
+![Hospital ER Diagram](images/Hospital\_er\_diagram.png)
 
 ---
 ## Features Implemented
